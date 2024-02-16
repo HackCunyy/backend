@@ -1,0 +1,161 @@
+{
+                                        "zpid": "40.726765--73.96054",
+                                        "id": "40.726765--73.96054",
+                                        "providerListingId": "1z6vpyjxjc5au",
+                                        "imgSrc": "https://photos.zillowstatic.com/fp/d0a49a84dcc339e1ef09d4ace3ae07aa-p_e.jpg",
+                                        "hasImage": true,
+                                        "detailUrl": "/apartments/brooklyn-ny/west-wharf/CZdQrn/",
+                                        "statusType": "FOR_RENT",
+                                        "statusText": "West Wharf",
+                                        "address": "60 Wharf Dr, Brooklyn, NY",
+                                        "addressStreet": "60 Wharf Dr # 1001",
+                                        "addressCity": "Brooklyn",
+                                        "addressState": "NY",
+                                        "addressZipcode": "11222",
+                                        "units": [
+                                            {
+                                                "price": "$3,483+",
+                                                "beds": "0",
+                                                "roomForRent": false
+                                            },
+                                            {
+                                                "price": "$4,217+",
+                                                "beds": "1",
+                                                "roomForRent": false
+                                            },
+                                            {
+                                                "price": "$6,325+",
+                                                "beds": "2",
+                                                "roomForRent": false
+                                            },
+                                            {
+                                                "price": "$8,800+",
+                                                "beds": "3",
+                                                "roomForRent": false
+                                            }
+                                        ],
+                                        "lotId": 2707388855,
+                                        "latLong": {
+                                            "latitude": 40.726765,
+                                            "longitude": -73.96054
+                                        },
+                                        "variableData": {
+                                            "type": "PERSONALIZED_HOME_INSIGHT",
+                                            "text": "Waterfront parks"
+                                        },
+                                        "isSaved": false,
+                                        "buildingName": "West Wharf",
+                                        "isBuilding": true,
+                                        "canSaveBuilding": true,
+                                        "has3DModel": false,
+                                        "isFeaturedListing": true,
+                                        "isShowcaseListing": false,
+                                        "list": true,
+                                        "relaxed": false,
+                                        "carouselPhotos": [
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/d0a49a84dcc339e1ef09d4ace3ae07aa-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/63bc6772941e374f7d2825baa96294d6-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/46125f9ff9dbd09c340423b2b76b6a21-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/dfcdb28316c87069cb7e36744644a8e9-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/8b21a90a5ed0cec1066bae4b4e5e853c-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/74c5b77452a4b69f0e74d6ceac227b60-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/4803772b83c533230667981021b545d4-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/430e62a03bac4e76fc07ee612aa336fd-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/a1f6474cb6843cbde164155c62edf090-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/7d667d4a02f8f38b1d59b18f5ef1217f-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/d49b1227428a318fe23158f2c539b0c5-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/56dcf097362fe8651c23664bb561d5c5-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/3ad869b01718f9f9df25112c5ff23771-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/0fce34de9a7da0708dcea668caf7dbf2-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/5a906d6064feb3a089ea926f71e35631-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/2de8926b5f66e3dbfb5ee682ff60996d-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/6724a80d359592a7281a43d30c2c1896-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/451521e22c394c218981874680e3a2f5-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/c212d98f7517a2929e384d54095f8177-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/02b149f0672638b473deb067298afec1-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/b26638677bd25b510db4bcac623b6b1c-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/6e073a9954b2b9f25820d5cc231453de-p_e.jpg"},
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/20d82f761d01275b14d9fd5325c2af7d-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/1832ca408fccaacce47cc7e54a29d8f9-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/78ad3258fe6a3de19eb895111e6c761b-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/65c8ec3d004dc3b31ff6aea084528dc6-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/a3b097486914ef6eb2dc030fd7ea3298-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/5febb651776698b77ed919a4f1f2dc1a-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/79701de5e60c34416d44edfeecc4699e-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/62006bb0baaa96696b01bc61c4cce634-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/8f0a3be1e066bf149c1018e66437e4a6-p_e.jpg"
+                                                },
+                                                {
+                                                    "url": "https://photos.zillowstatic.com/fp/a4f7d062d98db602f5791d9b8d58eaca-p_e.jpg"
+                                                },
+                                                {"url": "https://photos.zillowstatic.com/fp/33786b8be5c435d017b90821d35722d6-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/5fe29170e3ef3462194a327ef19638a2-p_e.jpg"
+                                            },
+                                            {
+                                                "url": "https://photos.zillowstatic.com/fp/b35686adf5cea1da953631d74da8e2d1-p_e.jpg"
+                                            }
+                                        ],
+                                        "availabilityCount": 22
+                                    }
