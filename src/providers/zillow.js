@@ -1,6 +1,8 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 
+
+// IF THERES no response, change the cookie.
 export class Zillow {
   constructor() {
     this.name = 'Zillow';
@@ -25,7 +27,6 @@ export class Zillow {
         }
       });
       const $ = cheerio.load(response.data);
-      const rentals = [];
 
       const script = $("#__NEXT_DATA__").get()
       // access the data from the script tag
