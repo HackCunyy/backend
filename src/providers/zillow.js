@@ -3,7 +3,7 @@ import * as cheerio from "cheerio";
 
 
 // IF THERES no response, change the cookie.
-export class Zillow {
+export default class Zillow {
   constructor() {
     this.name = 'Zillow';
     this.url = "https://www.zillow.com/"
