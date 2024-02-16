@@ -11,9 +11,9 @@ app.get('/', (req, res) => {
   res.send('Hello World');
 });
 
-app.get('/zillow/:borough', (req, res) => {
+app.get('/zillow/:borough', async (req, res) => {
   const borough = req.params.borough;
-  const rentals = zillow.getRentals(borough);
+  const rentals = await zillow.getRentals(borough);
   res.json(rentals);
 });
 
